@@ -36,11 +36,13 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1](![Uploading Screenshot 2024-07-07 121419.png…]
-)
+![Screenshot 1]![Screenshot 2024-07-07 121419](https://github.com/Indranil102/SneaKER_webSITE/assets/115712973/11ed050d-4638-48d2-b0b2-58dda4ad9ad7)
+
+
 *Caption: Homepage showcasing branded shoes.*
 
-![Screenshot 2]![Screenshot 2024-07-07 121443](https://github.com/Indranil102/SneaKER_webSITE/assets/115712973/1adfd7ff-10c9-44b2-bf05-5bc20afa4223)
+![Screenshot 2]![Screenshot 2024-07-07 121443](https://github.com/Indranil102/SneaKER_webSITE/assets/115712973/f60e5b01-174c-4e63-b707-b2bea1dbdef9)
+
 
 *Caption: Product details page.*
 
