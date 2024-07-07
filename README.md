@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
 
 1. Navigate into the project directory.
    ```
-   [cd sneaker](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)
+   [cd sneaker]https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html
    ```
 
 2. Open `index.html` in your web browser.
