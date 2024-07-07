@@ -22,17 +22,13 @@ Sneaker is an e-commerce website specializing in branded shoe collections. This 
 
 To run this project locally, follow these steps:
 
-1. Clone this repository.
+
+1. Navigate into the project directory.
    ```
-  git clone https://github.com/Indranil102/SneaKER_webSITE.git
+   [cd sneaker](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)
    ```
 
-2. Navigate into the project directory.
-   ```
- [  [cd sneaker](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)
-   ```
-
-3. Open `index.html` in your web browser.
+2. Open `index.html` in your web browser.
 
 ## Screenshots
 
