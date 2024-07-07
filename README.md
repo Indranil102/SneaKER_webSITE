@@ -50,15 +50,3 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! If you find any issues or would like to contribute enhancements, please submit an issue or a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- This project was inspired by the love for sneakers and the desire to create a realistic e-commerce experience.
-- Special thanks to [OpenAI](https://www.openai.com) for the AI assistance in creating this README.
-
----
-
-Feel free to customize this README further based on additional features, acknowledgments, or specific setup instructions for your project. Adjust the file paths, repository URL, and screenshots as necessary to match your project structure and visuals.
