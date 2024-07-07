@@ -1,4 +1,4 @@
-![Screenshot 2024-07-07 121419](https://github.com/Indranil102/SneaKER_webSITE/assets/115712973/11267e39-0b32-4512-b0f7-33082dc0f7e9)
+
 # Sneaker - Branded Shoes Collection
 
 Sneaker is an e-commerce website specializing in branded shoe collections. This project showcases various branded shoes that users can browse and purchase directly from the website. The website is built using HTML, CSS, and JavaScript to provide a realistic and interactive shopping experience.
@@ -36,12 +36,12 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Screenshot 1]![Screenshot 2024-07-07 121419](https://github.com/Indranil102/SneaKER_webSITE/assets/115712973/11ed050d-4638-48d2-b0b2-58dda4ad9ad7)
+![Screenshot 2024-07-07 121419](https://github.com/Indranil102/SneaKER_webSITE/assets/115712973/11ed050d-4638-48d2-b0b2-58dda4ad9ad7)
 
 
 *Caption: Homepage showcasing branded shoes.*
 
-![Screenshot 2]![Screenshot 2024-07-07 121443](https://github.com/Indranil102/SneaKER_webSITE/assets/115712973/f60e5b01-174c-4e63-b707-b2bea1dbdef9)
+![Screenshot 2024-07-07 121443](https://github.com/Indranil102/SneaKER_webSITE/assets/115712973/f60e5b01-174c-4e63-b707-b2bea1dbdef9)
 
 
 *Caption: Product details page.*
