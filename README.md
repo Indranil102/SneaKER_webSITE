@@ -24,12 +24,12 @@ To run this project locally, follow these steps:
 
 1. Clone this repository.
    ```bash
-   git clone /Indranil102/SneaKER_webSITE/blob/main/index.html
+  https://github.com/Indranil102/SneaKER_webSITE.git
    ```
 
 2. Navigate into the project directory.
    ```bash
-   [cd sneaker](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)
+ [  [cd sneaker](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)](https://github.com/Indranil102/SneaKER_webSITE/blob/main/index.html)
    ```
 
 3. Open `index.html` in your web browser.
